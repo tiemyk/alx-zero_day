@@ -1,1 +1,1 @@
-Created a not empty  README.md in this directory
+Created a not empty README.md
